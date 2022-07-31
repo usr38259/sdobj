@@ -6,4 +6,4 @@ Simple script object (WScript host)
 `cscript sdobj.js`  
 `regsvr32 /u sdobj.dll`
 
-Windows 2K, XP tested (failed in Win7).
+On 64-bit systems use `%SystemRoot%\SysWOW64\cscript`.
