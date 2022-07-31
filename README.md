@@ -2,7 +2,7 @@
 Simple script object (WScript host)
 
 ### Using:  
-`regsvr32 sdobj.dll` (confirm successful registration)  
+`regsvr32 sdobj.dll` _(confirm successful registration)_  
 `cscript sdobj.js`  
 `regsvr32 /u sdobj.dll`
 
